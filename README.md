@@ -16,6 +16,6 @@ You'll require access to the MNIST dataset which can be obtained from [2]. For e
 
 ### References
 
-[1] - [Deepankar C. - A Primer to Bayes' Classifier](https://deepankarc.github.io/2020/02/04/infogan/)  
+[1] - [Deepankar C. - A Primer to Bayes' Classifier](https://deepankarc.github.io/bayes-classifier/)  
 [2] - [Y. LeCun, C. Cortes, C. Burges - The MNIST Database](http://yann.lecun.com/exdb/mnist/)  
 [3] - [MNIST in CSV](https://www.kaggle.com/oddrationale/mnist-in-csv)
