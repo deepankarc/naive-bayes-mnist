@@ -4,7 +4,7 @@ Classification using Naive Bayes on the MNIST dataset. For project explanation s
 
 ### Run
 
-You can run the code using `python runNaiveBayes.py --trainpath PATH_TO_TRAIN --testpath PATH_TO_TEST --algorithm ALGORITHM_CODE`. There are four options for `algorithm`:  
+You can run the code using `python run_naive_bayes.py --trainpath PATH_TO_TRAIN --testpath PATH_TO_TEST --algorithm ALGORITHM_CODE`. There are four options for `algorithm`:  
 1. `B` - Image is binarized and features are modeled as Bernoulli random variables.
 2. `G_gray` - Original grayscale values of the image are used as features and modeled as jointly Gaussian random variables.
 3. `G_pca` - PCA is used for dimensionality reduction of images before classification.
